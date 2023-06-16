@@ -11,9 +11,4 @@ Dieses Repository enthält ein Datenbankmanagementsystem (DBMS) für die Verwalt
 - Benutzerverwaltung: Verwalten Sie die Zugriffsrechte und Authentifizierung der Benutzer des DBMS.
 
 
-# Installation
-Klonen Sie das Repository mit dem Befehl:
 
-bash
-git clone https://github.com/AHMAD-ATIA/altenpflege-dbms.git
-Führen Sie die erforderlichen Datenbank-Setup-Skripte aus, um die benötigten Tabellen und Beziehungen zu erstellen.
