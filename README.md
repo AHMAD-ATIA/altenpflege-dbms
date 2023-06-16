@@ -1,5 +1,5 @@
 # altenpflege-dbms
-Dieses Repository enthält ein Datenbankmanagementsystem (DBMS) für die Verwaltung von Altenpflegedaten. Das DBMS bietet eine effiziente und strukturierte Möglichkeit, Informationen über Patienten, Ärzte und Pflegepersonal zu speichern und zu verwalten. Es wurde entwickelt, um den spezifischen Anforderungen des Altenpflegebereichs gerecht zu werden.
+Mini-Datenbankmanagementsystem (DBMS) für die Verwaltung von Altenpflegedaten. Das DBMS bietet eine effiziente und strukturierte Möglichkeit, Informationen über Patienten, Ärzte und Pflegepersonal zu speichern und zu verwalten. Es wurde entwickelt, um den spezifischen Anforderungen des Altenpflegebereichs gerecht zu werden.
 
 
 # Features
